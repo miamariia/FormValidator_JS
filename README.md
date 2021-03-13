@@ -1,1 +1,1 @@
-# Slider_JS
+# Practice_JS
