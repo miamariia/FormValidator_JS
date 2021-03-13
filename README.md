@@ -1,1 +1,1 @@
-# Modal_Window_JS
+# Slider_JS
